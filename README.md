@@ -57,23 +57,23 @@ O que fez? O que fará? E quais problemas enfrentou?
 ### 9. Qual o intuito das seguintes cerimônias?
 #### • Daily
 
-Ser uma reunião diária rápida, onde é compartilhado na equipe o que foi feito, o que fará e quais problemas enfrentando para que seja possível identificar qualquer problema e solucionar mais rápido.
+​	Ser uma reunião diária rápida, onde é compartilhado na equipe o que foi feito, o que fará e quais problemas enfrentando para que seja possível identificar qualquer problema e solucionar mais rápido.
 
 #### • Planning
 
-Nesse processo de planejamento, no qual o time inteiro participa para entender os itens trazidos pelo Product Owner, é planejar as tarefas no tempo disponível e definir a meta para a equipe na Sprint (time-box/tempo que o time tem para agregar valor para o usuário do projeto). 
+​	Nesse processo de planejamento, no qual o time inteiro participa para entender os itens trazidos pelo Product Owner, é planejar as tarefas no tempo disponível e definir a meta para a equipe na Sprint (time-box/tempo que o time tem para agregar valor para o usuário do projeto). 
 
 #### • Refinamento
 
-Nesse processo é de fragmentar as histórias mais importantes contidas no Product Backlog (a lista priorizada das histórias organizada pelo P.O) em partes menores para que seja adicionado valor ao usuário final.
+​	Nesse processo é de fragmentar as histórias mais importantes contidas no Product Backlog (a lista priorizada das histórias organizada pelo P.O) em partes menores para que seja adicionado valor ao usuário final.
 
 #### • Review
 
-Na reunião de revisão, onde se reúnem o cliente e a equipe, é de  avaliar os itens prontos e, se surgem novas mudanças adicionar no Product Backlog, de acordo com a prioridade.
+​	Na reunião de revisão, onde se reúnem o cliente e a equipe, é de  avaliar os itens prontos e, se surgem novas mudanças adicionar no Product Backlog, de acordo com a prioridade.
 
 #### • Retrospectiva
 
-Nessa reunião participam todos da equipe e é dedicada à melhoria contínua, o intuito é de verificar as possibilidades para melhoria no próximo contato e apresentar ações tanto dos pontos positivos quanto dos negativos.
+​	Nessa reunião participam todos da equipe e é dedicada à melhoria contínua, o intuito é de verificar as possibilidades para melhoria no próximo contato e apresentar ações tanto dos pontos positivos quanto dos negativos.
 
 ### 10. O que é a estimativa na metodologia ágil?
 
